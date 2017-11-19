@@ -1,2 +1,13 @@
-# User Authentication With Express and Mongo
-Project code to support the [Treehouse](https://teamtreehouse.com) course [User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
+You can view the project on by clicking this [Heroku link](https://express-mongo-authentication.herokuapp.com/)
+
+To start the program on your local machine:
+
+ * npm install
+ * npm start
+
+
+Technologies used:
+ * Nodejs with Express
+ * MongoDB with Mongoose
+ * Packages like bcrypt, express-session, connect-mongo
+ 
